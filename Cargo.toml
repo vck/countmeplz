@@ -1,0 +1,6 @@
+[package]
+name = "countmeplz"
+version = "0.1.0"
+authors = ["dasta <vicky.vernando@student.unri.ac.id>"]
+
+[dependencies]
